@@ -1,0 +1,26 @@
+Subject: Urgent: Immediate Verification Required for Your PayPal Account
+
+From: "PayPal Support" <support@paypa1-secure.com>
+To: user@example.com
+Date: Tue, 14 Oct 2025 09:12:45 +0000
+Message-ID: <20251014091245.12345@example.com>
+
+Dear PayPal Customer,
+
+We have detected suspicious activity on your account. For your protection, we have temporarily limited access to your account. To restore full access you MUST verify your identity within 24 hours.
+
+Please verify your account now by clicking the link below:
+[Verify Now] http://paypa1-secure[.]com/verify?uid=AB1234
+
+If you do not verify within 24 hours, your account will be permanently suspended.
+
+Why this happened:
+- Unusual login from a new device
+- Multiple failed attempts to access your account
+
+If you did not make these requests, please contact our support immediately.
+
+Thank you for your prompt attention,
+PayPal Support Team
+
+P.S. For your security, do not reply to this email.
